@@ -80,7 +80,7 @@ The dashboard provides a visual overview of pharmacy sales, prescription activit
 
 ### Dashboard Preview
 
-[![MediTrack Power BI Dashboard](MediTrack_Dashboard.png)](MediTrack_Dashboard.png)
+[![MediTrack Power BI Dashboard](mediTrack_dashboard.png)](mediTrack_dashboard.png)
 
 *Add your final dashboard screenshot to the repository using the filename `MediTrack_Dashboard.png`.*
 
